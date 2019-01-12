@@ -55,18 +55,18 @@
 ### Java/J2EE 基础
 
 * [Java 基础知识回顾](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/Java基础知识.md)
-* [J2EE 基础知识回顾](https://github.com/liuyongping99/Java-Guide/blob/master/Java相关/J2EE基础知识.md)
-* [static、final、this、super关键字总结](https://github.com/liuyongping99/Java-Guide/blob/master/Java相关/final、static、this、super.md) 
-* [static 关键字详解](https://github.com/liuyongping99/Java-Guide/blob/master/Java相关/static.md)   
+* [J2EE 基础知识回顾](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/J2EE基础知识.md)
+* [static、final、this、super关键字总结](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/final、static、this、super.md) 
+* [static 关键字详解](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/static.md)   
     
 ### Java 集合框架
 
-* [这几道Java集合框架面试题几乎必问](https://github.com/liuyongping99/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md)
-* [Java 集合框架常见面试题总结](https://github.com/liuyongping99/Java-Guide/blob/master/Java相关/Java集合框架常见面试题总结.md)
-* [ArrayList 源码学习](https://github.com/liuyongping99/Java-Guide/blob/master/Java相关/ArrayList.md) 
+* [这几道Java集合框架面试题几乎必问](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md)
+* [Java 集合框架常见面试题总结](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/Java集合框架常见面试题总结.md)
+* [ArrayList 源码学习](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/ArrayList.md) 
 * [【面试必备】透过源码角度一步一步带你分析 ArrayList 扩容机制](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/ArrayList-Grow.md)    
-* [LinkedList 源码学习](https://github.com/liuyongping99/Java-Guide/blob/master/Java相关/LinkedList.md)   
-* [HashMap(JDK1.8)源码学习](https://github.com/liuyongping99/Java-Guide/blob/master/Java相关/HashMap.md)  
+* [LinkedList 源码学习](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/LinkedList.md)   
+* [HashMap(JDK1.8)源码学习](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/HashMap.md)  
    
 ### Java 多线程
 * [多线程系列文章](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/多线程系列.md)
