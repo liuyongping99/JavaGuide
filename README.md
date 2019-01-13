@@ -66,37 +66,37 @@
 * [ArrayList 源码学习](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/ArrayList.md) 
 * [【面试必备】透过源码角度一步一步带你分析 ArrayList 扩容机制](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/ArrayList-Grow.md)    
 * [LinkedList 源码学习](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/LinkedList.md)   
-* [HashMap(JDK1.8)源码学习](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/HashMap.md)  
+* [HashMap(JDK1.8)源码学习](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/HashMap.md)
    
 ### Java 多线程
-* [多线程系列文章](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/多线程系列.md)
-* [并发编程面试必备：synchronized 关键字使用、底层原理、JDK1.6 之后的底层优化以及 和ReenTrantLock 的对比](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/synchronized.md)
-* [并发编程面试必备：乐观锁与悲观锁](https://github.com/liuyongping99/Java-Guide/blob/master/面试必备/面试必备之乐观锁与悲观锁.md)
-* [并发编程面试必备：JUC 中的 Atomic 原子类总结](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/Multithread/Atomic.md)
-* [并发编程面试必备：AQS 原理以及 AQS 同步组件总结](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/Multithread/AQS.md)
-* [BATJ都爱问的多线程面试题](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/Multithread/BATJ都爱问的多线程面试题.md)
-* [并发容器总结](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/Multithread/并发容器总结.md)
+* [多线程系列文章](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/多线程系列.md)
+* [并发编程面试必备：synchronized 关键字使用、底层原理、JDK1.6 之后的底层优化以及 和ReenTrantLock 的对比](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/synchronized.md)
+* [并发编程面试必备：乐观锁与悲观锁](https://github.com/liuyongping99/JavaGuide/blob/master/面试必备/面试必备之乐观锁与悲观锁.md)
+* [并发编程面试必备：JUC 中的 Atomic 原子类总结](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/Multithread/Atomic.md)
+* [并发编程面试必备：AQS 原理以及 AQS 同步组件总结](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/Multithread/AQS.md)
+* [BATJ都爱问的多线程面试题](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/Multithread/BATJ都爱问的多线程面试题.md)
+* [并发容器总结](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/Multithread/并发容器总结.md)
 
 ### Java 虚拟机 jvm
 
-* [可能是把Java内存区域讲的最清楚的一篇文章](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/可能是把Java内存区域讲的最清楚的一篇文章.md)
-* [搞定JVM垃圾回收就是这么简单](https://github.com/Snailclimb/liuyongping99/blob/master/Java相关/搞定JVM垃圾回收就是这么简单.md)
-* [《深入理解Java虚拟机》第2版学习笔记](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/Java虚拟机（jvm）.md)
+* [可能是把Java内存区域讲的最清楚的一篇文章](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/可能是把Java内存区域讲的最清楚的一篇文章.md)
+* [搞定JVM垃圾回收就是这么简单](https://github.com//liuyongping99/JavaGuide/blob/master/Java相关/搞定JVM垃圾回收就是这么简单.md)
+* [《深入理解Java虚拟机》第2版学习笔记](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/Java虚拟机（jvm）.md)
 
 
 ### Java IO 与 NIO
 
-* [Java IO 与 NIO系列文章](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/Java%20IO与NIO.md)
+* [Java IO 与 NIO系列文章](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/Java%20IO与NIO.md)
 
 ### 设计模式
 
-* [设计模式系列文章](https://github.com/liuyongping99/Java_Guide/blob/master/Java相关/设计模式.md)
+* [设计模式系列文章](https://github.com/liuyongping99/JavaGuide/blob/master/Java相关/设计模式.md)
 
 ## :open_file_folder: 数据结构与算法
    
 ### 数据结构
 
-* [数据结构知识学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/数据结构.md)
+* [数据结构知识学习与面试](https://github.com/Snailclimb/JavaGuide/blob/master/数据结构与算法/数据结构.md)
 
 ### 算法
 
